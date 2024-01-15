@@ -15,11 +15,11 @@
   <h3 align="center">A Social Media Application</h3>
 
 
-## <a>Introduction</a>
+## Introduction
 
 Explore social media with this user-friendly platform that has a nice look and lots of features. Easily create and explore posts, and enjoy a strong authentication system and quick data fetching using React Query for a smooth user experience.
 
-## <a name="tech-stack">Tech Stack</a>
+## Tech Stack
 
 - React.js
 - Appwrite
@@ -28,7 +28,7 @@ Explore social media with this user-friendly platform that has a nice look and l
 - Shadcn
 - Tailwind CSS
 
-## <a name="features">Features</a>
+## Features
 
 **Authentication System**: A robust authentication system ensuring security and user privacy
 
